@@ -4,7 +4,7 @@ Generate your own prompts with Additive Prompting made by @nickfloats, this app 
 
 Take your prompts to the next level now!!
 
-Check the [demo](https://twitter.com/SanxRoz/status/1635059072457392128)
+Check the [demo](https://just-prompt.vercel.app/)
 
 ![Just Code](./api/static/Prompt.png)
 
@@ -29,7 +29,7 @@ To modify your prompt or API go to `api/index.py`.
 **1. Clone Repo**
 
 ```bash
-git clone https://github.com/SanxRoz/ask.git
+git clone https://github.com/SanxRoz/prompt.git
 ```
 
 **2. Install Dependencies**
