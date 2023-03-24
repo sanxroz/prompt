@@ -1,12 +1,12 @@
-# Just code
+# Just Prompt it
 
-Your own AI assistant with all the power of ChatGPT, based on Flask, HTML, Javascript and CSS
+Generate your own prompts with Additive Prompting made by @nickfloats, this app is based on Flask, HTML, Javascript and CSS
 
-Build your own AI now!!
+Take your prompts to the next level now!!
 
 Check the [demo](https://twitter.com/SanxRoz/status/1635059072457392128)
 
-![Just Code](./api/static/justcode.png)
+![Just Code](./api/static/Prompt.png)
 
 ## Contact
 
