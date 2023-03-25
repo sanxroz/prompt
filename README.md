@@ -1,4 +1,4 @@
-# Just Prompt it
+# Just Prompt
 
 Generate your own prompts with Additive Prompting made by @nickfloats, this app is based on Flask, HTML, Javascript and CSS
 
