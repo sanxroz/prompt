@@ -44,7 +44,7 @@ def submit():
 
             Please note that the input will vary and it should be fill with the actual input provided by the user. Additionally, the style of the output should be consistent with the provided examples in terms of format, punctuation, vary with the writing style.
 
-            Return me 2 answers, always as a list'''},{"role": "user", "content": f"{request.json['inputValue']}"}])
+            Return me 1 answers, always as a list'''},{"role": "user", "content": f"{request.json['inputValue']}"}])
 
             return jsonify({'message': completion.choices[0].message.content})
         except requests.exceptions.RequestException as err:
